@@ -1,0 +1,8 @@
+--Este proyecto ha sido realizado con Vue JS para su ejecucion deberas seguir los siguientes pasos
+1. Clona el proyecto en tu pc
+2. Tener instalado Node Js en tu pc
+3. Accede por la consola de comandos a la ubicacion del proyecto pokedex
+4. Ejecuta el comando npm install para instalar los node_modules
+5. Ejecuta el comando npm run dev
+6. Al haber ejecutado el comando anterior te aparecera una url que deberas copiar
+7. Pega la Url en tu navegador y podras visualizar el proyecto
